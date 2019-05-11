@@ -29,6 +29,7 @@ map.on('style.load', function() {
      data: data
    });
 
+
     map.addLayer({
       id: 'conflictline',
       type: 'line',

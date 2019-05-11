@@ -12,6 +12,7 @@ var MdMClinics = [
       "lat": 39.34227
     },
     {
+      
       "name": "Stanytsia Luhanska",
       "Mobile Clinics": "Stanytsia Luhanska",
       "lng": 48.6754626,
