@@ -45,8 +45,8 @@ map.on('style.load', function() {
       type: 'line',
       source: 'conflictline',
       paint: {
-        "line-color": "blue",
-        "line-width": 8,
+        "line-color": "orange",
+        "line-width": 12,
         "line-opacity": 0.5
       }
     })
